@@ -1,0 +1,27 @@
+Repositório:Github
+Versionamento:GIT
+Estrutura Programa
+Docker
+Jenkins
+Programa:Java---Dados:SQL Server---Frontend:JavaFx
+Testes Unitários:JUnit
+Documentação:JavaDocs
+
+API 1:C#
+WebAP 1:HTML, CSS, PHP
+Testes Unitários API 1:NUnit
+Documentacao API 1:Swagger
+API 2:Node.JS
+Testes Unitários API 2:Mocha
+WebAP 2:Angular
+VagrantFile com MáquinaVirtual com Base de Dados
+Encriptação:passwords
+Comunicacao APP->API 1:JSON
+Comunicacao API 1->APP:XML
+Comunicacao APP->API 2:XML
+Comunicacao API 2->APP:JSON
+
+
+Cornograma de Dev-Ops
+	Codigo -> Commit -> Jenkins
+	

@@ -1,0 +1,13 @@
+Companhia Aérea
+
+Login
+Dashboard Companhia
+Dashboard Voo
+Dashboard Aviao
+Dashboard Aeroporto
+Dashboard Pessoa
+Dashboard Piloto/Tripulante
+Dashboard Passageiro
+
+API para registo de companhias aereas
+API para registo de clientes
